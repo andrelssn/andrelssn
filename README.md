@@ -3,12 +3,6 @@
 <h4 align="center">a passionate Junior Software Developer with a fresh degree in Computer Science. 🚀 Skilled in coding, debugging, and constantly learning new technologies. 🌱 I thrive in collaborative environments and enjoy tackling new challenges to create innovative solutions. Let's code! 💻✨</h4>
 
 <div align="center">
-  <a href="https://github.com/andrelssn">
-    <img src="https://github-readme-stats.vercel.app/api?username=andrelssn&theme=tokyonight&count_private=true&show_icons=true" alt="Andre's GitHub stats"/>
-  </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/andrelssn" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
