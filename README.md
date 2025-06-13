@@ -18,7 +18,7 @@
 ## About me
 
 
-- I’m currently working at Samsung R&D Brazil since 2023 🚀
+- I’m currently looking for opportunities 🚀
   
 - My goal is to become proficient in multiple front end and back end frameworks, creating engaging and user-friendly web experiences.
 
