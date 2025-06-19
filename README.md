@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm André!</h1>
 
-<h4 align="center">a passionate Full-Stack Developer with a fresh degree in Computer Science. 🚀 Skilled in coding, debugging, and constantly learning new technologies. 🌱 I thrive in collaborative environments and enjoy tackling new challenges to create innovative solutions. Let's code! 💻✨</h4>
+<h4 align="center">a passionate Full Stack Developer with a fresh degree in Computer Science. 🚀 Skilled in coding, debugging, and constantly learning new technologies. 🌱 I thrive in collaborative environments and enjoy tackling new challenges to create innovative solutions. Let's code! 💻✨</h4>
 
 <div align="center">
   <a href="https://github.com/andrelssn" target="_blank">
