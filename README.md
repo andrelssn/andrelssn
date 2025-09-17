@@ -6,7 +6,6 @@ I hold a degree in **Computer Science** and I enjoy combining **logic** and **cr
 Currently, I’m focused on improving my skills in **system architecture** and **development best practices**, always looking for new challenges that help me grow as a professional.  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrelssn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrelssn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
